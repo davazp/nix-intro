@@ -1,0 +1,16 @@
+{
+  "name": "app-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "cli.js",
+  "scripts": {
+    "build": "tsc --build ."
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
