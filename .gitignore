@@ -2,3 +2,4 @@ result
 /app-rust/target/
 
 node_modules
+/docker-image.tar.gz
